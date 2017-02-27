@@ -1,1 +1,34 @@
-
+{
+  "wallpapers": [
+    {
+      "author": "Osum Walls",
+      "url": "http://i.imgur.com/RlOFpKg.png",
+      "name": "Osum One",
+      "thumbnail": "http://i.imgur.com/RlOFpKg.png"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "http://i.imgur.com/24UtbPx.jpg",
+      "name": "Osum Two",
+      "thumbnail": "http://i.imgur.com/24UtbPx.jpg"
+    },
+	{
+      "author": "Osum Walls",
+      "url": "http://i.imgur.com/CvA5Omt.jpg",
+      "name": "Osum Three",
+      "thumbnail": "http://i.imgur.com/CvA5Omt.jpg"
+    },
+	{
+      "author": "Osum Walls",
+      "url": "http://i.imgur.com/uZMsv3a.jpg",
+      "name": "Osum Four",
+      "thumbnail": "http://i.imgur.com/uZMsv3a.jpg"
+    }, 
+        {
+      "author": "Osum Walls",
+      "url": "http://i.imgur.com/h3HjgmH.jpg",
+      "name": "Osum Seven",
+      "thumbnail": "http://i.imgur.com/h3HjgmH.jpg"
+    }
+  ]
+}
