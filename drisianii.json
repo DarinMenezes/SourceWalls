@@ -24,11 +24,28 @@
             },
 	    {
                 "name": "Nature"
+            },
+            {
+                "name": "Animals"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "Earth"
             }
         ],
     
 	"Wallpapers":
         [
+            
+			{
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/keetWrN.jpg",
+				"thumbUrl": "http://i.imgur.com/keetWrN.jpg",
+				"name": "Scarletains",
+                "category": "Nature"
+			},
 			{
 				"author": "Unsplash",
 				"url": "http://i.imgur.com/PYkxBr8.jpg",
@@ -65,109 +82,102 @@
                 "category": "Photography"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_01.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5NzgxMGI4RWV2MkU",
-				"name": "M Wallpaper 1",
-                "category": "marshmallow,anothercategory"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/7BlrvrU.jpg",
+				"thumbUrl": "http://i.imgur.com/7BlrvrU.jpg",
+				"name": "SnowTain",
+                "category": "Nature"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_02.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5LXpWOTVJU3A2Rm8",
-				"name": "M Wallpaper 2",
-                "category": "marshmallow,anothercategory"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/hNMiWmM.jpg",
+				"thumbUrl": "http://i.imgur.com/hNMiWmM.jpg",
+				"name": "Fishy go Splishy",
+                "category": "Animals"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_03.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WDNHR3ZndEs3cnM",
-				"name": "M Wallpaper 3",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/UFOISd7.jpg",
+				"thumbUrl": "http://i.imgur.com/UFOISd7.jpg",
+				"name": "FogTains",
+                "category": "Nature"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_04.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WHVlbjA2UEZDUlk",
-				"name": "M Wallpaper 4",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/QIZnORm.jpg",
+				"thumbUrl": "http://i.imgur.com/QIZnORm.jpg",
+				"name": "Get Trained",
+                "category": "Photography"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_05.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5bU84NlNRTzNfMms",
-				"name": "M Wallpaper 5",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/WRSGIo5.jpg",
+				"thumbUrl": "http://i.imgur.com/WRSGIo5.jpg",
+				"name": "WhiteTains",
+                "category": "Nature"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_06.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5VlVtcURlOEprY0E",
-				"name": "M Wallpaper 6",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/yAhCrHo.jpg",
+				"thumbUrl": "http://i.imgur.com/yAhCrHo.jpg",
+				"name": "They so Jelly",
+                "category": "Animals"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_07.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Mi1FRUMydnpKTUk",
-				"name": "M Wallpaper 7",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/n3aAmsy.jpg",
+				"thumbUrl": "http://i.imgur.com/n3aAmsy.jpg",
+				"name": "Da Dome",
+                "category": "Architecture"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_08.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5Z01ERWZuZVJ1bjQ",
-				"name": "M Wallpaper 8",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/FicdQuH.jpg",
+				"thumbUrl": "http://i.imgur.com/FicdQuH.jpg",
+				"name": "The Bright Light",
+                "category": "Photography"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_09.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5bVBSOHdKNTA1YUU",
-				"name": "M Wallpaper 9",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/ARJIbmC.jpg",
+				"thumbUrl": "http://i.imgur.com/ARJIbmC.jpg",
+				"name": "Whitertains",
+                "category": "Nature"
 			},
 			{
-				"author": "Taken from slashgear",
-				"url": "https://c.slashgear.com/wp-content/uploads/2015/08/AndroidMarshmallow_10.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5UnF2NU5xUENOMGM",
-				"name": "M Wallpaper 10",
-                "category": "marshmallow"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/uUgppYM.jpg",
+				"thumbUrl": "http://i.imgur.com/uUgppYM.jpg",
+				"name": "Drip Drop",
+                "category": "Architecture"
 			},
 			{
-				"author": "Taken from androidpolice",
-				"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-01.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5M0NoYUlTU3lFY1U",
-				"name": "L Wallpaper 1",
-                "category": "lollipop"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/kQWejKR.jpg",
+				"thumbUrl": "http://i.imgur.com/kQWejKR.jpg",
+				"name": "Treezz",
+                "category": "Nature,Photography"
 			},
 			{
-				"author": "Taken from androidpolice",
-				"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-02.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5eDllWURVSFNnT1k",
-				"name": "L Wallpaper 2",
-                "category": "lollipop"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/SnoXhPf.jpg",
+				"thumbUrl": "http://i.imgur.com/SnoXhPf.jpg",
+				"name": "Pengu",
+                "category": "Animals"
 			},
 			{
-				"author": "Taken from androidpolice",
-				"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-03.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5eENIRjR1cWNnYUk",
-				"name": "L Wallpaper 3",
-                "category": "lollipop"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/5aOPPSS.jpg",
+				"thumbUrl": "http://i.imgur.com/5aOPPSS.jpg",
+				"name": "Cluck",
+                "category": "Animals"
 			},
 			{
-				"author": "Taken from androidpolice",
-				"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-04.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5ZXNzN05ZcGd5T3c",
-				"name": "L Wallpaper 4",
-                "category": "lollipop"
-			},
-			{
-				"author": "Taken from androidpolice",
-				"url": "http://www.androidpolice.com/wp-content/uploads/2014/10/nexus2cee_lollipop-wallpaper-05.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5ZnZ6T214dzN3dVU",
-				"name": "L Wallpaper 5",
-                "category": "lollipop"
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/OlYFten.jpg",
+				"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
+				"name": "Wat er Rock!",
+                "category": "Photography,Nature"
 			},
 			{
 				"author": "Taken from androidpolice",
