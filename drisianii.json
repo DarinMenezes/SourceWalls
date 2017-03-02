@@ -20,6 +20,48 @@
 		}
 	],
 	"Wallpapers": [
+        		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/hWlmuj0.jpg",
+			"thumbUrl": "http://i.imgur.com/hWlmuj0.jpg",
+			"name": "Path Change",
+			"category": "Photography"
+		},
+        {
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/cVpx9Uq.png",
+			"thumbUrl": "http://i.imgur.com/cVpx9Uq.png",
+			"name": "Burn",
+			"category": "Photography"
+		},
+        {
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/rYy1YBo.png",
+			"thumbUrl": "http://i.imgur.com/rYy1YBo.png",
+			"name": "The City",
+			"category": "Photography"
+		},
+        {
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/0SZzGii.jpg",
+			"thumbUrl": "http://i.imgur.com/0SZzGii.jpg",
+			"name": "DOGGOZ",
+			"category": "Animals"
+		},
+        {
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/ahiS2pP.jpg",
+			"thumbUrl": "http://i.imgur.com/ahiS2pP.jpg",
+			"name": "BURD",
+			"category": "Animals"
+		},
+        {
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/OlYFten.jpg",
+			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
+			"name": "The Internet's Weapon",
+			"category": "Photography"
+		},
         {
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/LR1rlgC.jpg",
@@ -258,48 +300,7 @@
 			"thumbUrl": "http://i.imgur.com/5aOPPSS.jpg",
 			"name": "Cluck",
 			"category": "Animals"
-		},
-		{
-			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "Wat er Rock!",
-			"category": "Photography,Nature"
-		},
-        {
-			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "Wat er Rock!",
-			"category": "Photography,Nature"
-		},
-        {
-			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "Wat er Rock!",
-			"category": "Photography,Nature"
-		},
-        {
-			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "Wat er Rock!",
-			"category": "Photography,Nature"
-		},
-        {
-			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "Wat er Rock!",
-			"category": "Photography,Nature"
-		},
-        {
-			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "Wat er Rock!",
-			"category": "Photography,Nature"
 		}
+
 	]
 }
