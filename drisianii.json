@@ -1,235 +1,217 @@
-{  
-   "Categories":[  
-      {  
-         "name":"KitKat"
-      },
-      {  
-         "name":"Lollipop"
-      },
-      {  
-         "name":"Marshmallow"
-      },
-      {  
-         "name":"Nougat"
-      },
-      {  
-         "name":"NoImagesInside"
-      },
-      {  
-         "name":"AnotherCategory"
-      },
-      {  
-         "name":"Photography"
-      },
-      {  
-         "name":"Nature"
-      },
-      {  
-         "name":"Animals"
-      },
-      {  
-         "name":"Architecture"
-      },
-      {  
-         "name":"Earth"
-      }
-   ],
-   "Wallpapers":[  
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/keetWrN.jpg",
-         "thumbUrl":"http://i.imgur.com/keetWrN.jpg",
-         "name":"Scarletains",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/PYkxBr8.jpg",
-         "thumbUrl":"http://i.imgur.com/PYkxBr8.jpg",
-         "name":"HighLights",
-         "category":"Photography"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/Wx4TKMP.jpg",
-         "thumbUrl":"http://i.imgur.com/Wx4TKMP.jpg",
-         "name":"Snow Way Out",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/UyPJsKH.jpg",
-         "thumbUrl":"http://i.imgur.com/UyPJsKH.jpg",
-         "name":"Planty Plant",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/Yy7QKEf.jpg",
-         "thumbUrl":"http://i.imgur.com/Yy7QKEf.jpg",
-         "name":"Ben The Big",
-         "category":"Photography"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/Hh1LnUL.jpg",
-         "thumbUrl":"http://i.imgur.com/Hh1LnUL.jpg",
-         "name":"Follow the Light",
-         "category":"Photography"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/7BlrvrU.jpg",
-         "thumbUrl":"http://i.imgur.com/7BlrvrU.jpg",
-         "name":"SnowTain",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/hNMiWmM.jpg",
-         "thumbUrl":"http://i.imgur.com/hNMiWmM.jpg",
-         "name":"Fishy go Splishy",
-         "category":"Animals"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/UFOISd7.jpg",
-         "thumbUrl":"http://i.imgur.com/UFOISd7.jpg",
-         "name":"FogTains",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/QIZnORm.jpg",
-         "thumbUrl":"http://i.imgur.com/QIZnORm.jpg",
-         "name":"Get Trained",
-         "category":"Photography"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/WRSGIo5.jpg",
-         "thumbUrl":"http://i.imgur.com/WRSGIo5.jpg",
-         "name":"WhiteTains",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/yAhCrHo.jpg",
-         "thumbUrl":"http://i.imgur.com/yAhCrHo.jpg",
-         "name":"They so Jelly",
-         "category":"Animals"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/n3aAmsy.jpg",
-         "thumbUrl":"http://i.imgur.com/n3aAmsy.jpg",
-         "name":"Da Dome",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/FicdQuH.jpg",
-         "thumbUrl":"http://i.imgur.com/FicdQuH.jpg",
-         "name":"The Bright Light",
-         "category":"Photography"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/ARJIbmC.jpg",
-         "thumbUrl":"http://i.imgur.com/ARJIbmC.jpg",
-         "name":"Whitertains",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/uUgppYM.jpg",
-         "thumbUrl":"http://i.imgur.com/uUgppYM.jpg",
-         "name":"Drip Drop",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/kQWejKR.jpg",
-         "thumbUrl":"http://i.imgur.com/kQWejKR.jpg",
-         "name":"Treezz",
-         "category":"Nature,Photography"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/SnoXhPf.jpg",
-         "thumbUrl":"http://i.imgur.com/SnoXhPf.jpg",
-         "name":"Pengu",
-         "category":"Animals"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/5aOPPSS.jpg",
-         "thumbUrl":"http://i.imgur.com/5aOPPSS.jpg",
-         "name":"Cluck",
-         "category":"Animals"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/OlYFten.jpg",
-         "thumbUrl":"http://i.imgur.com/OlYFten.jpg",
-         "name":"Wat er Rock!",
-         "category":"Photography,Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/U74A2PG.jpg",
-         "thumbUrl":"http://i.imgur.com/U74A2PG.jpg",
-         "name":"BlueBuild",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/U74A2PG.jpg",
-         "thumbUrl":"http://i.imgur.com/U74A2PG.jpg",
-         "name":"GrayBuild",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/g437Pmv.jpg",
-         "thumbUrl":"http://i.imgur.com/g437Pmv.jpg",
-         "name":"The Build",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/3MVi4dP.jpg",
-         "thumbUrl":"http://i.imgur.com/3MVi4dP.jpg",
-         "name":"Moar Build",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/f78fx2y.jpg",
-         "thumbUrl":"http://i.imgur.com/f78fx2y.jpg",
-         "name":"Circular Build",
-         "category":"Architecture"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/XZEHZDn.jpg",
-         "thumbUrl":"http://i.imgur.com/XZEHZDn.jpg",
-         "name":"Whitetain",
-         "category":"Nature"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/Ilb81Jo.jpg",
-         "thumbUrl":"http://i.imgur.com/Ilb81Jo.jpg",
-         "name":"EarthWave",
-         "category":"Earth"
-      },
-      {  
-         "author":"Unsplash",
-         "url":"http://i.imgur.com/kuHlx6n.jpg",
-         "thumbUrl":"http://i.imgur.com/kuHlx6n.jpg",
-         "name":"WatEarthWave",
-         "category":"kitkat"
-      }
-   ]
+{
+	"Categories": [
+		{
+			"name": "Photography"
+		},
+		{
+			"name": "Nature"
+		},
+		{
+			"name": "Animals"
+		},
+		{
+			"name": "Architecture"
+		},
+		{
+			"name": "Earth"
+		}
+	],
+	"Wallpapers": [
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/keetWrN.jpg",
+			"thumbUrl": "http://i.imgur.com/keetWrN.jpg",
+			"name": "Scarletains",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/PYkxBr8.jpg",
+			"thumbUrl": "http://i.imgur.com/PYkxBr8.jpg",
+			"name": "HighLights",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/Wx4TKMP.jpg",
+			"thumbUrl": "http://i.imgur.com/Wx4TKMP.jpg",
+			"name": "Snow Way Out",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/UyPJsKH.jpg",
+			"thumbUrl": "http://i.imgur.com/UyPJsKH.jpg",
+			"name": "Planty Plant",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/Yy7QKEf.jpg",
+			"thumbUrl": "http://i.imgur.com/Yy7QKEf.jpg",
+			"name": "Ben The Big",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/Hh1LnUL.jpg",
+			"thumbUrl": "http://i.imgur.com/Hh1LnUL.jpg",
+			"name": "Follow the Light",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/7BlrvrU.jpg",
+			"thumbUrl": "http://i.imgur.com/7BlrvrU.jpg",
+			"name": "SnowTain",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/hNMiWmM.jpg",
+			"thumbUrl": "http://i.imgur.com/hNMiWmM.jpg",
+			"name": "Fishy go Splishy",
+			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/UFOISd7.jpg",
+			"thumbUrl": "http://i.imgur.com/UFOISd7.jpg",
+			"name": "FogTains",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/QIZnORm.jpg",
+			"thumbUrl": "http://i.imgur.com/QIZnORm.jpg",
+			"name": "Get Trained",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/WRSGIo5.jpg",
+			"thumbUrl": "http://i.imgur.com/WRSGIo5.jpg",
+			"name": "WhiteTains",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/yAhCrHo.jpg",
+			"thumbUrl": "http://i.imgur.com/yAhCrHo.jpg",
+			"name": "They so Jelly",
+			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/n3aAmsy.jpg",
+			"thumbUrl": "http://i.imgur.com/n3aAmsy.jpg",
+			"name": "Da Dome",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/FicdQuH.jpg",
+			"thumbUrl": "http://i.imgur.com/FicdQuH.jpg",
+			"name": "The Bright Light",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/ARJIbmC.jpg",
+			"thumbUrl": "http://i.imgur.com/ARJIbmC.jpg",
+			"name": "Whitertains",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/uUgppYM.jpg",
+			"thumbUrl": "http://i.imgur.com/uUgppYM.jpg",
+			"name": "Drip Drop",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/kQWejKR.jpg",
+			"thumbUrl": "http://i.imgur.com/kQWejKR.jpg",
+			"name": "Treezz",
+			"category": "Nature,Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/SnoXhPf.jpg",
+			"thumbUrl": "http://i.imgur.com/SnoXhPf.jpg",
+			"name": "Pengu",
+			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/5aOPPSS.jpg",
+			"thumbUrl": "http://i.imgur.com/5aOPPSS.jpg",
+			"name": "Cluck",
+			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/OlYFten.jpg",
+			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
+			"name": "Wat er Rock!",
+			"category": "Photography,Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/U74A2PG.jpg",
+			"thumbUrl": "http://i.imgur.com/U74A2PG.jpg",
+			"name": "BlueBuild",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/U74A2PG.jpg",
+			"thumbUrl": "http://i.imgur.com/U74A2PG.jpg",
+			"name": "GrayBuild",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/g437Pmv.jpg",
+			"thumbUrl": "http://i.imgur.com/g437Pmv.jpg",
+			"name": "The Build",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/3MVi4dP.jpg",
+			"thumbUrl": "http://i.imgur.com/3MVi4dP.jpg",
+			"name": "Moar Build",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/f78fx2y.jpg",
+			"thumbUrl": "http://i.imgur.com/f78fx2y.jpg",
+			"name": "Circular Build",
+			"category": "Architecture"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/XZEHZDn.jpg",
+			"thumbUrl": "http://i.imgur.com/XZEHZDn.jpg",
+			"name": "Whitetain",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/Ilb81Jo.jpg",
+			"thumbUrl": "http://i.imgur.com/Ilb81Jo.jpg",
+			"name": "EarthWave",
+			"category": "Earth"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/kuHlx6n.jpg",
+			"thumbUrl": "http://i.imgur.com/kuHlx6n.jpg",
+			"name": "WatEarthWave",
+			"category": "kitkat"
+		}
+	]
 }
