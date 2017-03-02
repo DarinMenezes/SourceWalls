@@ -39,13 +39,7 @@
 	"Wallpapers":
         [
             
-			{
-				"author": "Unsplash",
-				"url": "http://i.imgur.com/keetWrN.jpg",
-				"thumbUrl": "http://i.imgur.com/keetWrN.jpg",
-				"name": "Scarletains",
-                "category": "Nature"
-			},
+			
 			{
 				"author": "Unsplash",
 				"url": "http://i.imgur.com/PYkxBr8.jpg",
@@ -178,6 +172,13 @@
 				"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
 				"name": "Wat er Rock!",
                 "category": "Photography,Nature"
+			},
+		{
+				"author": "Unsplash",
+				"url": "http://i.imgur.com/keetWrN.jpg",
+				"thumbUrl": "http://i.imgur.com/keetWrN.jpg",
+				"name": "Scarletains",
+                "category": "Nature"
 			},
 			{
 				"author": "Taken from androidpolice",
