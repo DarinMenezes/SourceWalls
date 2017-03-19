@@ -50,13 +50,6 @@
 		},
         {
 			"author": "Unsplash",
-			"url": "http://i.imgur.com/OlYFten.jpg",
-			"thumbUrl": "http://i.imgur.com/OlYFten.jpg",
-			"name": "The Internet's Weapon",
-			"category": "Photography"
-		},
-        {
-			"author": "Unsplash",
 			"url": "http://i.imgur.com/LR1rlgC.jpg",
 			"thumbUrl": "http://i.imgur.com/LR1rlgC.jpg",
 			"name": "DarkEarth",
@@ -293,7 +286,71 @@
 			"thumbUrl": "http://i.imgur.com/5aOPPSS.jpg",
 			"name": "Cluck",
 			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/CBUxX4c.jpg",
+			"thumbUrl": "http://i.imgur.com/CBUxX4c.jpg",
+			"name": "Doggo Tyree",
+			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/MlE1TqH.jpg",
+			"thumbUrl": "http://i.imgur.com/MlE1TqH.jpg",
+			"name": "Dark Petals",
+			"category": "Nature"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/pCJoU8e.jpg",
+			"thumbUrl": "http://i.imgur.com/pCJoU8e.jpg",
+			"name": "Doggo Dark",
+			"category": "Animals"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/7ZzUvlH.jpg",
+			"thumbUrl": "http://i.imgur.com/7ZzUvlH.jpg",
+			"name": "Blue Pop",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/tzVGkVT.jpg",
+			"thumbUrl": "http://i.imgur.com/tzVGkVT.jpg",
+			"name": "Meo..I Mean.. RAWR",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/ri65ctu.jpg",
+			"thumbUrl": "http://i.imgur.com/ri65ctu.jpg",
+			"name": "Lonely Mountain",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/Qvb0jFc.jpg",
+			"thumbUrl": "http://i.imgur.com/Qvb0jFc.jpg",
+			"name": "Flamin Clouds",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/sBKQCVE.jpg",
+			"thumbUrl": "http://i.imgur.com/sBKQCVE.jpg",
+			"name": "The Dark and the Blue",
+			"category": "Photography"
+		},
+		{
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/yJb1amN.jpg",
+			"thumbUrl": "http://i.imgur.com/yJb1amN.jpg",
+			"name": "Bork",
+			"category": "Animals"
 		}
+		
 
 	]
 }
