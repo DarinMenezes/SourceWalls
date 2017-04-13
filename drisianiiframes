@@ -22,17 +22,17 @@
 		},
 		{
 			"name":"Earth",
-            "preview_url":"http://i.imgur.com/TQsXVGw.jpg",
-            "preview_thumbnail_url":"http://i.imgur.com/TQsXVGw.jpg"
+            "preview_url":"http://i.imgur.com/LR1rlgC.jpg",
+            "preview_thumbnail_url":"http://i.imgur.com/LR1rlgC.jpg"
 		},
         {
 			"name":"Space",
             "preview_url":"http://i.imgur.com/TQsXVGw.jpg",
             "preview_thumbnail_url":"http://i.imgur.com/TQsXVGw.jpg"
 		}
-	],
-	"Wallpapers":[
-        { 
+	 ],
+    "Wallpapers":[
+        {
             "name": "Path Change",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/hWlmuj0.jpg",
