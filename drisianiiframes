@@ -36,293 +36,293 @@
             "name": "Path Change",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/hWlmuj0.jpg",
-            "collections": "Photography"
+            "collections": "featured,Photography"
 		},
         {
 			"name": "Burn",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/cVpx9Uq.png",
-            "collections": "Photography"
+            "collections": "featured,Photography"
 		},
         { 
             
 			"name": "The City",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/rYy1YBo.png",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
         {
             
 			"name": "BURD",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/ahiS2pP.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
         {
             
-			"name": "DarkEarth",
+			"name": "Darkfeatured,Earth",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/LR1rlgC.jpg",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		},
         {
             
-			"name": "Darker Earth",
+			"name": "Darker featured,Earth",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/gK6wsOm.jpg",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		},
         {
 			"name": "Desserted",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/BBWLzpD.jpg",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		}, 
         {
 			"name": "Absorb",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/TQsXVGw.jpg",
-			"collections": "Space"
+			"collections": "featured,Space"
 		},
         {
 			"name": "Surface",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/Qc8dEVi.jpg",
-			"collections": "Space"
+			"collections": "featured,Space"
 		},
         {
 			"name": "The Crack",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/x3hGJMw.jpg",
-			"collections": "Space"
+			"collections": "featured,Space"
 		},
         {
 			"name": "Roses are Red",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/CvA5Omt.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "BlueBuild",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/U74A2PG.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "GrayBuild",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/U74A2PG.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "The Build",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/g437Pmv.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "Moar Build",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/3MVi4dP.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "Circular Build",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/f78fx2y.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "Whitetain",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/XZEHZDn.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
-			"name": "EarthWave",
+			"name": "featured,EarthWave",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/Ilb81Jo.jpg",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		},
 		{
-			"name": "WatEarthWave",
+			"name": "Watfeatured,EarthWave",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/kuHlx6n.jpg",
-			"collections": "Earth"
+			"collections": "featured,Earth"
 		},
         {
 			"name": "Scarletains",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/keetWrN.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "HighLights",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/PYkxBr8.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Snow Way Out",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/Wx4TKMP.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "Planty Plant",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/UyPJsKH.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "Ben The Big",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/Yy7QKEf.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Follow the Light",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/Hh1LnUL.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "SnowTain",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/7BlrvrU.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "Fishy go Splishy",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/hNMiWmM.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "FogTains",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/UFOISd7.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "Get Trained",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/QIZnORm.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "WhiteTains",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/WRSGIo5.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "They so Jelly",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/yAhCrHo.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "Da Dome",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/n3aAmsy.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "The Bright Light",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/FicdQuH.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Whitertains",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/ARJIbmC.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "Drip Drop",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/uUgppYM.jpg",
-			"collections": "Architecture"
+			"collections": "featured,Architecture"
 		},
 		{
 			"name": "Treezz",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/kQWejKR.jpg",
-			"collections": "Nature,Photography"
+			"collections": "featured,Nature,featured,Photography"
 		},
 		{
 			"name": "Pengu",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/SnoXhPf.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "Cluck",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/5aOPPSS.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "Doggo Tyree",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/CBUxX4c.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "Dark Petals",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/MlE1TqH.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		},
 		{
 			"name": "Doggo Dark",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/pCJoU8e.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "Blue Pop",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/7ZzUvlH.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Meo..I Mean.. RAWR",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/tzVGkVT.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Lonely Mountain",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/ri65ctu.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Flamin Clouds",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/Qvb0jFc.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "The Dark and the Blue",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/sBKQCVE.jpg",
-			"collections": "Photography"
+			"collections": "featured,Photography"
 		},
 		{
 			"name": "Bork",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/yJb1amN.jpg",
-			"collections": "Animals"
+			"collections": "featured,Animals"
 		},
 		{
 			"name": "Lol Bye",
 			"author": "Unsplash",
 			"url": "http://i.imgur.com/zpF9ywk.jpg",
-			"collections": "Nature"
+			"collections": "featured,Nature"
 		}
 	]
 }
