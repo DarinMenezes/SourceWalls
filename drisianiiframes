@@ -1,5 +1,10 @@
 {
 	"Collections":[
+	        {
+			"name":"Black and White",
+            "preview_url":"http://i.imgur.com/uiFe0st.jpg",
+            "preview_thumbnail_url":"http://i.imgur.com/uiFe0st.jpg"
+		},
 		{
 			"name":"Photography",
             "preview_url":"http://i.imgur.com/hWlmuj0.jpg",
@@ -32,6 +37,66 @@
 		}
 	 ],
     "Wallpapers":[
+        {
+            "name": "The Light Guide",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/RB7ZNy1.jpg",
+            "collections": "featured,Black and White, Architecture"
+		},{
+            "name": "Archimaze",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/iSU3D1T.jpg",
+            "collections": "featured,Architecture,Black and White"
+		},
+        {
+            "name": "Darktains",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/I3FIRKk.jpg",
+            "collections": "featured,Photography,Black and White"
+		},
+        {
+            "name": "The Sound.",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/zS83XFS.jpg",
+            "collections": "featured,Photography,Black and White"
+		},
+        {
+            "name": "Blacat",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/hWlmuj0.jpg",
+            "collections": "featured,Animals,Black and White"
+		},
+        {
+            "name": "Fo, at Rest.",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/uiFe0st.jpg",
+            "collections": "featured,Nature,Black and White"
+		},
+        {
+            "name": "Spin Up",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/cSjXIFy.jpg",
+            "collections": "featured,Architecture,Black and White"
+		},
+        {
+            "name": "Dear Deers.",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/563eb3F.jpg",
+            "collections": "featured,Animals,Black and White"
+		},
+        {
+            "name": "Mic.",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/PI1eMaN.jpg",
+            "collections": "featured,Photography,Black and White"
+		},
+        {
+            "name": "The City",
+			"author": "Unsplash",
+			"url": "http://i.imgur.com/a6pNJLI.jpg",
+            "collections": "featured,Photography,Black and White"
+	    ),
+		
         {
             "name": "Path Change",
 			"author": "Unsplash",
