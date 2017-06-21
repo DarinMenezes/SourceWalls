@@ -1,185 +1,99 @@
-{ 
-	"wallpapers": 
-		[
-       {  
-
-         "name":"Mic.",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/PI1eMaN.jpg"
-
-      },
-
-      {  
-
-         "name":"The City",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/a6pNJLI.jpg"
-
-      },
-
-      {  
-
-         "name":"Path Change",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/hWlmuj0.jpg"
-
-      },
-
-      {  
-
-         "name":"Burn",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/cVpx9Uq.png"
-
-      },
-
-      {  
-
-         "name":"The City",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/rYy1YBo.png"
-
-      },
-      {  
-
-         "name":"BURD",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/ahiS2pP.jpg"
-
-      },
-
-      {  
-
-         "name":"Darkfeatured,Earth",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/LR1rlgC.jpg"
-
-      },
-
-      {  
-
-         "name":"Darker featured,Earth",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/gK6wsOm.jpg"
-
-      },
-
-      {  
-
-         "name":"Desserted",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/BBWLzpD.jpg"
-
-      },
-
-      {  
-
-         "name":"Absorb",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/TQsXVGw.jpg"
-
-      },
-
-      {  
-
-         "name":"Surface",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/Qc8dEVi.jpg"
-
-      },
-
-      {  
-
-         "name":"The Crack",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/x3hGJMw.jpg"
 {  
-
-         "name":"Red Bridge",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/ocSZx90.jpg"
-
-      },
-{  
-
-         "name":"Flight.",
-
-         "author":"Darin Menezes",
-
-         "url":"http://i.imgur.com/KaH0xR1.jpg"
-
-      },
-{  
-
-         "name":"Dim City",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/Ns4kShU.jpg"
-
-      },
-{  
-
-         "name":"Seas Rock. Pun Intended.",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/lgIvtgq.jpg"
-
-      },
-{  
-
-         "name":"Blue Trees.",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/xmodhDA.jpg"
-
-      },
-{  
-
-         "name":"Dark Light Waters",
-
-         "author":"Unsplash",
-	
-         "url":"http://i.imgur.com/MgWIJSc.jpg"
-
-      },
-
-{  
-
-         "name":"Bright Cities",
-
-         "author":"Unsplash",
-
-         "url":"http://i.imgur.com/4UPHG5m.jpg"
-
-      }
-        ]
-           }
+   "wallpapers":[  
+      {  
+         "name":"Mic.",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/PI1eMaN.jpg"
+      },
+      {  
+         "name":"The City",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/a6pNJLI.jpg"
+      },
+      {  
+         "name":"Path Change",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/hWlmuj0.jpg"
+      },
+      {  
+         "name":"Burn",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/cVpx9Uq.png"
+      },
+      {  
+         "name":"The City",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/rYy1YBo.png"
+      },
+      {  
+         "name":"BURD",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/ahiS2pP.jpg"
+      },
+      {  
+         "name":"Darkfeatured,Earth",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/LR1rlgC.jpg"
+      },
+      {  
+         "name":"Darker featured,Earth",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/gK6wsOm.jpg"
+      },
+      {  
+         "name":"Desserted",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/BBWLzpD.jpg"
+      },
+      {  
+         "name":"Absorb",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/TQsXVGw.jpg"
+      },
+      {  
+         "name":"Surface",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/Qc8dEVi.jpg"
+      },
+      {  
+         "name":"The Crack",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/x3hGJMw.jpg"
+      },
+      {  
+         "name":"Red Bridge",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/ocSZx90.jpg"
+      },
+      {  
+         "name":"Flight.",
+         "author":"Darin Menezes",
+         "url":"http://i.imgur.com/KaH0xR1.jpg"
+      },
+      {  
+         "name":"Dim City",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/Ns4kShU.jpg"
+      },
+      {  
+         "name":"Seas Rock. Pun Intended.",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/lgIvtgq.jpg"
+      },
+      {  
+         "name":"Blue Trees.",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/xmodhDA.jpg"
+      },
+      {  
+         "name":"Dark Light Waters",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/MgWIJSc.jpg"
+      },
+      {  
+         "name":"Bright Cities",
+         "author":"Unsplash",
+         "url":"http://i.imgur.com/4UPHG5m.jpg"
+      }
+   ]
+}
