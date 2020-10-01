@@ -5,7 +5,7 @@
 		"url": "https://i.imgur.com/iRzJzDn.png",
 		"thumbnail": "https://i.imgur.com/iRzJzDnl.png",
 		"downloadable": true,
-		"collections": "Purple",
+		"collections": "Purple,Pink",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -14,7 +14,7 @@
 		"url": "https://i.imgur.com/4WkY36Y.jpg",
 		"thumbnail": "https://i.imgur.com/4WkY36Yl.jpg",
 		"downloadable": true,
-		"collections": "Blue",
+		"collections": "Blue,Red",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -23,7 +23,7 @@
 		"url": "https://i.imgur.com/skETI4A.jpg",
 		"thumbnail": "https://i.imgur.com/skETI4Al.jpg",
 		"downloadable": true,
-		"collections": "Purple",
+		"collections": "Purple,Yellow",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},	
     {
@@ -32,7 +32,7 @@
 		"url": "https://i.imgur.com/KLh4fT8.png",
 		"thumbnail": "https://i.imgur.com/KLh4fT8l.png",
 		"downloadable": true,
-		"collections": "Green",
+		"collections": "Green,White",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -41,7 +41,7 @@
 		"url": "https://i.imgur.com/8Hio6qo.png",
 		"thumbnail": "https://i.imgur.com/8Hio6qol.png",
 		"downloadable": true,
-		"collections": "Red",
+		"collections": "Red,Purple",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -50,7 +50,7 @@
 		"url": "https://i.imgur.com/RgqRRKG.png",
 		"thumbnail": "https://i.imgur.com/RgqRRKGl.png",
 		"downloadable": true,
-		"collections": "Blue",
+		"collections": "White,Blue",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -68,7 +68,7 @@
 		"url": "https://i.imgur.com/xSwpQ8z.png",
 		"thumbnail": "https://i.imgur.com/xSwpQ8zl.png",
 		"downloadable": true,
-		"collections": "Blue",
+		"collections": "Purple,Blue",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -95,7 +95,7 @@
 		"url": "https://i.imgur.com/tR8srie.png",
 		"thumbnail": "https://i.imgur.com/tR8sriel.png",
 		"downloadable": true,
-		"collections": "Green",
+		"collections": "Green,White",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -104,7 +104,7 @@
 		"url": "https://i.imgur.com/M2SHk8R.png",
 		"thumbnail": "https://i.imgur.com/M2SHk8Rl.png",
 		"downloadable": true,
-		"collections": "Blue",
+		"collections": "Blue,Purple",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -113,7 +113,7 @@
 		"url": "https://i.imgur.com/dsoPegq.png",
 		"thumbnail": "https://i.imgur.com/dsoPegql.png",
 		"downloadable": true,
-		"collections": "Purple",
+		"collections": "Purple,Yellow,Black",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -131,7 +131,7 @@
 		"url": "https://i.imgur.com/eeoW9gU.png",
 		"thumbnail": "https://i.imgur.com/eeoW9gUl.png",
 		"downloadable": true,
-		"collections": "Pink",
+		"collections": "Pink,Green",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -140,7 +140,7 @@
 		"url": "https://i.imgur.com/kNOEoJu.png",
 		"thumbnail": "https://i.imgur.com/kNOEoJul.png",
 		"downloadable": true,
-		"collections": "Yellow",
+		"collections": "Yellow,Black",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -158,7 +158,7 @@
 		"url": "https://i.imgur.com/V8PgqZ0.png",
 		"thumbnail": "https://i.imgur.com/V8PgqZ0l.png",
 		"downloadable": true,
-		"collections": "Blue",
+		"collections": "Blue,White",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
     {
@@ -167,7 +167,7 @@
 		"url": "https://i.imgur.com/y68d9f6.png",
 		"thumbnail": "https://i.imgur.com/y68d9f6l.png",
 		"downloadable": true,
-		"collections": "Blue",
+		"collections": "Blue,Black",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
