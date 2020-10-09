@@ -17,9 +17,18 @@
 		"collections": "Blue,Red",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
+	{
+		"name": "Suisha",
+		"author": "Darin Menezes",
+		"url": "https://i.imgur.com/tMDxdrh.png",
+		"thumbnail": "https://i.imgur.com/tMDxdrh.png",
+		"downloadable": true,
+		"collections": "Blue,Black,White",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
     {
 		"name": "KP Galaxegg",
-		"author": "Darin Menezes",
+		"author": "Karen Pillai",
 		"url": "https://i.imgur.com/skETI4A.jpg",
 		"thumbnail": "https://i.imgur.com/skETI4Al.jpg",
 		"downloadable": true,
